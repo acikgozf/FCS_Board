@@ -2,4 +2,4 @@
 4 Layer board that includes GPS,MCU,IMU e.g.
 
 
-![alt text](file:///C:/Users/FURKAN/Desktop/Flight_controller%20v1.0/Flight_controller%20v1.0/Screeshot.png)
+![Screeshot](https://github.com/acikgozf/FCS_Board/assets/56433607/f853930b-8e9a-46f4-9745-50c1177fac76)
